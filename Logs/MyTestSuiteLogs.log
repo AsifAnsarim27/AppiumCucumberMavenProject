@@ -1,0 +1,198 @@
+[INFO ] 2021-12-21 08:18:28.668 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 08:18:30.542 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 08:18:31.360 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 08:18:33.856 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 08:18:34.587 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 08:18:46.741 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 08:18:48.747 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 08:18:50.160 [main] FlipListSteps - Tapping to select Flip Option has done!
+[INFO ] 2021-12-21 08:18:50.347 [main] FlipListSteps - *****Boom! Successfully clicked on flip-button to flip the whole optionlist******
+[INFO ] 2021-12-21 08:19:03.078 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 08:19:04.918 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 08:19:06.214 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 08:19:06.391 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 08:19:06.392 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 08:19:07.169 [main] AnimationFuncSteps - *******All buttons have been successfully hide*****!
+[INFO ] 2021-12-21 08:19:19.441 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 08:19:21.474 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 08:19:22.803 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 08:19:23.151 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 08:19:23.153 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 08:19:25.004 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 08:19:25.006 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 08:19:36.522 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 08:19:38.548 [main] SMSMessagingSteps - user has been entered into the OS section of the app!
+[INFO ] 2021-12-21 08:19:40.105 [main] SMSMessagingSteps - SMS messasging option have been choosen
+[INFO ] 2021-12-21 08:19:40.289 [main] SMSMessagingSteps - Mobile number has been entered into the recipients field! 
+[INFO ] 2021-12-21 08:19:41.065 [main] SMSMessagingSteps - Content of the msg has been written into body field!
+[INFO ] 2021-12-21 08:19:41.673 [main] SMSMessagingSteps - ******Boom! Has been Successfully tap on Send button to send an SMS *******
+[INFO ] 2021-12-21 08:19:53.692 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 08:19:55.733 [main] SwipeOverImagesSteps - user has entered into the View section of mobile app!
+[INFO ] 2021-12-21 08:19:57.362 [main] SwipeOverImagesSteps - now user has entered into gallary section
+[INFO ] 2021-12-21 08:19:59.079 [main] SwipeOverImagesSteps - To select the PHOTOS option has been done!
+[INFO ] 2021-12-21 08:20:01.946 [main] SwipeOverImagesSteps - *****Boom! user is able to swipe across gallary images to view them******
+[INFO ] 2021-12-21 12:17:36.785 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 12:17:37.370 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 12:17:40.387 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 12:17:40.657 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 12:17:40.659 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 12:17:41.473 [main] AnimationFuncSteps - *******All buttons have been successfully hide*****!
+[INFO ] 2021-12-21 12:17:52.257 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 12:17:53.050 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 12:17:55.943 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 12:17:56.288 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 12:17:56.290 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 12:17:58.117 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 12:17:58.121 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 12:25:01.378 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 12:25:03.198 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 12:25:04.725 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 12:25:05.069 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 12:25:05.070 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 12:25:05.944 [main] AnimationFuncSteps - *******All buttons have been successfully hide*****!
+[INFO ] 2021-12-21 12:25:36.291 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 12:25:38.103 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 12:25:39.718 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 12:25:40.010 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 12:25:40.011 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 12:25:40.829 [main] AnimationFuncSteps - *******All buttons have been successfully hide*****!
+[INFO ] 2021-12-21 12:28:10.263 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 12:28:12.265 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 12:28:13.812 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 12:28:15.261 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 12:28:16.045 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 16:52:41.387 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 16:52:43.196 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 16:52:44.886 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 16:52:46.479 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 16:52:47.285 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 16:52:59.001 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 16:53:01.463 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 16:53:03.144 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 16:53:03.490 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 16:53:03.491 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 16:53:05.360 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 16:53:05.362 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 17:36:42.989 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 17:36:44.705 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 17:36:46.379 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 17:36:48.045 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 17:36:48.937 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 17:37:00.292 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 17:37:02.720 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 17:37:04.818 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 17:37:05.571 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 17:37:05.573 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 17:37:07.526 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 17:37:07.527 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 17:38:05.866 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 17:38:06.147 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 17:38:08.538 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 17:38:09.815 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 17:38:10.464 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 17:38:19.988 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 17:38:21.969 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 17:38:23.261 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 17:38:23.429 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 17:38:23.429 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 17:38:25.188 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 17:38:25.189 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 22:27:58.947 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:28:00.919 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 22:28:02.445 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 22:28:03.971 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 22:28:04.711 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 22:28:17.645 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:28:19.536 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:28:20.886 [main] FlipListSteps - Tapping to select Flip Option has done!
+[INFO ] 2021-12-21 22:28:21.243 [main] FlipListSteps - *****Boom! Successfully clicked on flip-button to flip the whole optionlist******
+[INFO ] 2021-12-21 22:28:32.453 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:28:34.415 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:28:34.704 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 22:28:36.203 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 22:28:36.205 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 22:28:37.007 [main] AnimationFuncSteps - *******All buttons have been successfully hide*****!
+[INFO ] 2021-12-21 22:28:48.488 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:28:50.315 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:28:51.909 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 22:28:52.283 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 22:28:52.284 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 22:28:54.131 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 22:28:54.133 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 22:29:05.695 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:29:07.583 [main] SMSMessagingSteps - user has been entered into the OS section of the app!
+[INFO ] 2021-12-21 22:29:09.580 [main] SMSMessagingSteps - SMS messasging option have been choosen
+[INFO ] 2021-12-21 22:29:09.914 [main] SMSMessagingSteps - Mobile number has been entered into the recipients field! 
+[INFO ] 2021-12-21 22:29:10.730 [main] SMSMessagingSteps - Content of the msg has been written into body field!
+[INFO ] 2021-12-21 22:29:11.291 [main] SMSMessagingSteps - ******Boom! Has been Successfully tap on Send button to send an SMS *******
+[INFO ] 2021-12-21 22:29:22.631 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:29:24.535 [main] SwipeOverImagesSteps - user has entered into the View section of mobile app!
+[INFO ] 2021-12-21 22:29:25.991 [main] SwipeOverImagesSteps - now user has entered into gallary section
+[INFO ] 2021-12-21 22:29:27.654 [main] SwipeOverImagesSteps - To select the PHOTOS option has been done!
+[INFO ] 2021-12-21 22:29:30.717 [main] SwipeOverImagesSteps - *****Boom! user is able to swipe across gallary images to view them******
+[INFO ] 2021-12-21 22:33:30.972 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:33:31.570 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 22:33:33.108 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 22:33:35.887 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 22:33:36.779 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 22:33:47.956 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:33:50.122 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:33:51.605 [main] FlipListSteps - Tapping to select Flip Option has done!
+[INFO ] 2021-12-21 22:33:52.011 [main] FlipListSteps - *****Boom! Successfully clicked on flip-button to flip the whole optionlist******
+[INFO ] 2021-12-21 22:34:03.577 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:34:05.563 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:34:07.034 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 22:34:07.385 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 22:34:07.388 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 22:34:08.118 [main] AnimationFuncSteps - *******All buttons have been successfully hide*****!
+[INFO ] 2021-12-21 22:34:19.200 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:34:21.157 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:34:22.628 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 22:34:22.953 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 22:34:22.955 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 22:34:24.802 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 22:34:24.804 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 22:34:36.653 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:34:38.682 [main] SMSMessagingSteps - user has been entered into the OS section of the app!
+[INFO ] 2021-12-21 22:34:40.367 [main] SMSMessagingSteps - SMS messasging option have been choosen
+[INFO ] 2021-12-21 22:34:40.629 [main] SMSMessagingSteps - Mobile number has been entered into the recipients field! 
+[INFO ] 2021-12-21 22:34:41.390 [main] SMSMessagingSteps - Content of the msg has been written into body field!
+[INFO ] 2021-12-21 22:34:41.951 [main] SMSMessagingSteps - ******Boom! Has been Successfully tap on Send button to send an SMS *******
+[INFO ] 2021-12-21 22:34:53.268 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:34:55.481 [main] SwipeOverImagesSteps - user has entered into the View section of mobile app!
+[INFO ] 2021-12-21 22:34:57.044 [main] SwipeOverImagesSteps - now user has entered into gallary section
+[INFO ] 2021-12-21 22:34:58.588 [main] SwipeOverImagesSteps - To select the PHOTOS option has been done!
+[INFO ] 2021-12-21 22:35:01.571 [main] SwipeOverImagesSteps - *****Boom! user is able to swipe across gallary images to view them******
+[INFO ] 2021-12-21 22:37:24.918 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:37:26.729 [main] DisplayTitleSteps - User has entered into the App section
+[INFO ] 2021-12-21 22:37:26.929 [main] DisplayTitleSteps - Tap on the Action Bar option has done
+[INFO ] 2021-12-21 22:37:29.826 [main] DisplayTitleSteps - Tap on the Display Option has been done!
+[INFO ] 2021-12-21 22:37:30.587 [main] DisplayTitleSteps - ****Boom! Has been successfully clicked on Display_show_title button for toggling the title****
+[INFO ] 2021-12-21 22:37:42.984 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:37:44.924 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:37:46.220 [main] FlipListSteps - Tapping to select Flip Option has done!
+[INFO ] 2021-12-21 22:37:46.405 [main] FlipListSteps - *****Boom! Successfully clicked on flip-button to flip the whole optionlist******
+[INFO ] 2021-12-21 22:37:57.684 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:37:59.517 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:37:59.650 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 22:38:01.099 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 22:38:01.099 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 22:38:01.899 [main] AnimationFuncSteps - *******All buttons have been successfully hide*****!
+[INFO ] 2021-12-21 22:38:13.007 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:38:15.075 [main] AnimationFuncSteps - Tap on the Animation Section has done!
+[INFO ] 2021-12-21 22:38:15.237 [main] AnimationFuncSteps - Tap on the Hide-Show Animation Option has done!
+[INFO ] 2021-12-21 22:38:16.919 [main] AnimationFuncSteps - Custom Animation has been provided!
+[INFO ] 2021-12-21 22:38:16.920 [main] AnimationFuncSteps - Tapping on the button for the purpose of hiding them has started!
+[INFO ] 2021-12-21 22:38:18.863 [main] AnimationFuncSteps - Clicked Successfully on the Show button!
+[INFO ] 2021-12-21 22:38:18.866 [main] AnimationFuncSteps - ******Boom! All hidden button are visible again******* 
+[INFO ] 2021-12-21 22:38:31.474 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:38:32.026 [main] SMSMessagingSteps - user has been entered into the OS section of the app!
+[INFO ] 2021-12-21 22:38:34.776 [main] SMSMessagingSteps - SMS messasging option have been choosen
+[INFO ] 2021-12-21 22:38:35.030 [main] SMSMessagingSteps - Mobile number has been entered into the recipients field! 
+[INFO ] 2021-12-21 22:38:35.734 [main] SMSMessagingSteps - Content of the msg has been written into body field!
+[INFO ] 2021-12-21 22:38:36.309 [main] SMSMessagingSteps - ******Boom! Has been Successfully tap on Send button to send an SMS *******
+[INFO ] 2021-12-21 22:38:50.098 [main] AnimationFuncSteps - #~#~#~ Application has open to run a new test ~#~#~#
+[INFO ] 2021-12-21 22:38:52.024 [main] SwipeOverImagesSteps - user has entered into the View section of mobile app!
+[INFO ] 2021-12-21 22:38:53.395 [main] SwipeOverImagesSteps - now user has entered into gallary section
+[INFO ] 2021-12-21 22:38:55.002 [main] SwipeOverImagesSteps - To select the PHOTOS option has been done!
+[INFO ] 2021-12-21 22:38:57.962 [main] SwipeOverImagesSteps - *****Boom! user is able to swipe across gallary images to view them******
