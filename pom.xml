@@ -146,7 +146,7 @@
 							<projectName>MyAppiumAssignment</projectName>
 							<outputDirectory>${project.build.directory}/cucumber-report-html</outputDirectory>
 							<inputDirectory>${project.build.directory}/cucumber.json</inputDirectory>
-							<checkBuildResult>true</checkBuildResult>
+							
 						</configuration>
 					</execution>
 				</executions>
