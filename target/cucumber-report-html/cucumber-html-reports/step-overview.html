@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="js/Chart.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
+<link rel="stylesheet" href="css/reporting.css" type="text/css"/>
+<link rel="stylesheet" href="css/font-awesome.min.css"/>
+<link rel="shortcut icon" href="images/favicon.png"/>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    // this will tell tablesorter to try looking for the data-value attribute
+    // if present, it'll sort by that instead
+    // otherwise, it'll sort by the text content of the table cell
+    $("#tablesorter").tablesorter({
+        textAttribute: 'data-value',
+        // ignores the first row of the header, the 'scenario', 'steps', since
+        // sorting those doesn't make sense
+        selectorHeaders: '> thead tr:not(.dont-sort) th',
+        // use a stable sort
+        sortStable: true
+    });
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<title>Cucumber-JVM Reports  - Steps Overview</title>
+
+</head>
+<body>
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse">
+      <p class="navbar-text navbar-left">Cucumber-JVM Report</p>
+      <ul class="nav navbar-nav navbar-right">
+                <li role="presentation" ><a href="feature-overview.html">Features</a></li>
+        <li role="presentation" ><a href="tag-overview.html">Tags</a></li>
+        <li role="presentation"     class="active" ><a href="step-overview.html">Steps</a></li>
+        <li role="presentation" ><a href="failures-overview.html">Failures</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid" id="build-info">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-1">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Project</th>
+                          <th>Number</th>
+                        <th>Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="info">
+            <td>MyAppiumAssignment</td>
+                          <td>1</td>
+                        <td>21 Dec 2021, 22:39</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div id="report-lead" class="container-fluid>
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <h2>Steps Statistics</h2>
+              <p>The following graph shows step statistics for this build. Below list is based on results.
+ step does not provide information about result then is not listed below.
+ Additionally @Before and @After are not counted because they are part of the scenarios, not steps.</p>
+          </div>
+  </div>
+</div>
+
+<div class="container-fluid" id="summary">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+              <table id="tablesorter" class="stats-table table-hover">
+
+          <thead>
+            <tr class="header">
+              <th>Implementation</th>
+              <th>Occurrences</th>
+              <th>Duration</th>
+              <th>Average</th>
+              <th>Ratio</th>
+            </tr>
+          </thead>
+
+          <tbody>
+                          <tr>
+                <td class="location">AnimationFuncSteps.all_buttons_have_gone_invisible()</td>
+                <td>1</td>
+                <td class="duration" data-value="448500">000ms</td>
+                <td class="duration" data-value="448500">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.all_hidden_buttons_starts_being_visible()</td>
+                <td>1</td>
+                <td class="duration" data-value="1347600">001ms</td>
+                <td class="duration" data-value="1347600">001ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.application_has_already_opened()</td>
+                <td>6</td>
+                <td class="duration" data-value="804565500">804ms</td>
+                <td class="duration" data-value="134094250">134ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.as_user_tap_on_the_Show_button()</td>
+                <td>1</td>
+                <td class="duration" data-value="1131546900">1s 131ms</td>
+                <td class="duration" data-value="1131546900">1s 131ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.markcheck_to_provide_some_custom_animation()</td>
+                <td>2</td>
+                <td class="duration" data-value="3122540200">3s 122ms</td>
+                <td class="duration" data-value="1561270100">1s 561ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.start_tapping_the_buttons_to_hide_them()</td>
+                <td>2</td>
+                <td class="duration" data-value="1604649700">1s 604ms</td>
+                <td class="duration" data-value="802324850">802ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.tap_on_the_Hide_Show_Animation_section()</td>
+                <td>2</td>
+                <td class="duration" data-value="291110100">291ms</td>
+                <td class="duration" data-value="145555050">145ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.user_is_inside_hideshow_animation_section_of_the_app()</td>
+                <td>2</td>
+                <td class="duration" data-value="379100">000ms</td>
+                <td class="duration" data-value="189550">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">AnimationFuncSteps.user_tap_on_the_Animation_section()</td>
+                <td>3</td>
+                <td class="duration" data-value="5838976700">5s 838ms</td>
+                <td class="duration" data-value="1946325566">1s 946ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">DisplayTitleSteps.as_click_on_Display_Show_Title_button()</td>
+                <td>1</td>
+                <td class="duration" data-value="758633400">758ms</td>
+                <td class="duration" data-value="758633400">758ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">DisplayTitleSteps.path_of_that_button_get_disappeared_from_the_top()</td>
+                <td>1</td>
+                <td class="duration" data-value="941300">000ms</td>
+                <td class="duration" data-value="941300">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">DisplayTitleSteps.tap_on_the_Action_Bar_option()</td>
+                <td>1</td>
+                <td class="duration" data-value="196562900">196ms</td>
+                <td class="duration" data-value="196562900">196ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">DisplayTitleSteps.tap_on_the_Display_Option()</td>
+                <td>1</td>
+                <td class="duration" data-value="2895253800">2s 895ms</td>
+                <td class="duration" data-value="2895253800">2s 895ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">DisplayTitleSteps.user_tap_on_the_App_section_of_app()</td>
+                <td>1</td>
+                <td class="duration" data-value="1805452200">1s 805ms</td>
+                <td class="duration" data-value="1805452200">1s 805ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">FlipListSteps.as_user_click_on_the_Flip_button()</td>
+                <td>1</td>
+                <td class="duration" data-value="185139900">185ms</td>
+                <td class="duration" data-value="185139900">185ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">FlipListSteps.tap_on_the_view_Flip_option()</td>
+                <td>1</td>
+                <td class="duration" data-value="1293034400">1s 293ms</td>
+                <td class="duration" data-value="1293034400">1s 293ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">FlipListSteps.whole_list_of_options_get_flip_to_another_language()</td>
+                <td>1</td>
+                <td class="duration" data-value="176300">000ms</td>
+                <td class="duration" data-value="176300">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Hooks.Invoke1(Scenario)</td>
+                <td>6</td>
+                <td class="duration" data-value="72728231700">1m 12s 728ms</td>
+                <td class="duration" data-value="12121371950">12s 121ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">Hooks.teardown()</td>
+                <td>6</td>
+                <td class="duration" data-value="1901216900">1s 901ms</td>
+                <td class="duration" data-value="316869483">316ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SMSMessagingSteps.click_on_Send_button()</td>
+                <td>1</td>
+                <td class="duration" data-value="574478600">574ms</td>
+                <td class="duration" data-value="574478600">574ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SMSMessagingSteps.select_the_SMS_messaging_option()</td>
+                <td>1</td>
+                <td class="duration" data-value="2749687100">2s 749ms</td>
+                <td class="duration" data-value="2749687100">2s 749ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SMSMessagingSteps.this_of_successfull_sent_appear_on_screen(String)</td>
+                <td>1</td>
+                <td class="duration" data-value="248100">000ms</td>
+                <td class="duration" data-value="248100">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SMSMessagingSteps.user_tap_on_the_OS_section()</td>
+                <td>1</td>
+                <td class="duration" data-value="552199800">552ms</td>
+                <td class="duration" data-value="552199800">552ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SMSMessagingSteps.write_within_message_body(String)</td>
+                <td>1</td>
+                <td class="duration" data-value="703801300">703ms</td>
+                <td class="duration" data-value="703801300">703ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SMSMessagingSteps.write_within_recipient_section(String)</td>
+                <td>1</td>
+                <td class="duration" data-value="250965100">250ms</td>
+                <td class="duration" data-value="250965100">250ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SwipeOverImagesSteps.go_inside_the_gallary_section()</td>
+                <td>1</td>
+                <td class="duration" data-value="1368273700">1s 368ms</td>
+                <td class="duration" data-value="1368273700">1s 368ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SwipeOverImagesSteps.images_of_gallary_gets_visible()</td>
+                <td>1</td>
+                <td class="duration" data-value="465800">000ms</td>
+                <td class="duration" data-value="465800">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SwipeOverImagesSteps.more_images_of_nature_get_seen()</td>
+                <td>1</td>
+                <td class="duration" data-value="138800">000ms</td>
+                <td class="duration" data-value="138800">000ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SwipeOverImagesSteps.select_the_Photos_option()</td>
+                <td>1</td>
+                <td class="duration" data-value="1606435500">1s 606ms</td>
+                <td class="duration" data-value="1606435500">1s 606ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SwipeOverImagesSteps.user_swipes_horizontally_from_right_to_left()</td>
+                <td>1</td>
+                <td class="duration" data-value="2955594600">2s 955ms</td>
+                <td class="duration" data-value="2955594600">2s 955ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                          <tr>
+                <td class="location">SwipeOverImagesSteps.user_tap_on_the_view_section()</td>
+                <td>1</td>
+                <td class="duration" data-value="1926412600">1s 926ms</td>
+                <td class="duration" data-value="1926412600">1s 926ms</td>
+                <td class="passed">100.00%</td>
+              </tr>
+                      </tbody>
+
+          <tfoot class="total">
+            <tr>
+              <td>31</td>
+              <td>52</td>
+              <td class="duration">1m 47s 248ms</td>
+              <td class="duration">2s 062ms</td>
+              <td>Totals</td>
+            </tr>
+          </tfoot>
+
+        </table>
+          </div>
+  </div>
+</div>
+
+
+<nav class="navbar navbar-default" id="footer">
+  <div class="container-fluid">
+    <p class="navbar-text navbar-right">
+        <small>generate Cucumber HTML reports via:&nbsp;</small>
+        <a class="navbar-link" href="https://github.com/jenkinsci/cucumber-reports-plugin">Jenkins Plugin</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-reporting">Standalone</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/cucumber-sandwich">Sandwich</a> |
+        <a class="navbar-link" href="https://github.com/damianszczepanik/maven-cucumber-reporting">Maven</a>
+        &nbsp;&nbsp;
+    </p>
+  </div>
+</nav>
+
+</body>
+</html>
