@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="107.248909">
+    <testcase classname="To verify the click functionality of Display_Show_Title option in App section of  DemoApi app." name="Display_show_title Check" time="19.995227">
+        <system-out>
+            <![CDATA[Given application has already opened........................................passed
+When user tap on the App section of app.....................................passed
+And tap on the Action Bar option............................................passed
+And tap on the Display Option...............................................passed
+And as click on Display Show Title button...................................passed
+Then path of that button starts toggling on the top.........................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To verify and check the action of flip button under animation section of the  app." name="Check Flip Action of whole list" time="15.801749">
+        <system-out>
+            <![CDATA[Given application has already opened........................................passed
+When user tap on the Animation section......................................passed
+And tap on the view Flip option.............................................passed
+And as user click on the Flip button........................................passed
+Then whole list of options get flip to another language.....................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Featurefile for Animation Related Test" name="To verify the working of hiding of buttons" time="15.526747">
+        <system-out>
+            <![CDATA[Given application has already opened........................................passed
+When user tap on the Animation section......................................passed
+And tap on the Hide-Show Animation section..................................passed
+Given user is inside hideshow animation section of the app..................passed
+When user markcheck to provide some custom animation........................passed
+And start tapping the buttons to hide them..................................passed
+Then all buttons have gone invisible........................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Featurefile for Animation Related Test" name="To verify the working of Show button to show hidden buttons" time="16.877597">
+        <system-out>
+            <![CDATA[Given application has already opened........................................passed
+When user tap on the Animation section......................................passed
+And tap on the Hide-Show Animation section..................................passed
+Given user is inside hideshow animation section of the app..................passed
+When user markcheck to provide some custom animation........................passed
+And start tapping the buttons to hide them..................................passed
+And as user tap on the Show button..........................................passed
+Then all hidden buttons starts being visible................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="To verify the SMS Messaging functionality in DemoApi app." name="Send an SMS" time="17.544551">
+        <system-out>
+            <![CDATA[Given application has already opened........................................passed
+When user tap on the OS section.............................................passed
+And select the SMS messaging option.........................................passed
+And write "9565715861" within recipient section.............................passed
+And write "Hello Peter!" within message body................................passed
+And click on Send button....................................................passed
+Then this "Message sent!" of successfull sent appear on screen..............passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Swipe_to_view_Images" name="View All images of gallery through swiping horizontally" time="21.503038">
+        <system-out>
+            <![CDATA[Given application has already opened........................................passed
+When user tap on the view section...........................................passed
+And go inside the gallary section...........................................passed
+And select the Photos option................................................passed
+Then images of gallary gets visible.........................................passed
+When User swipes horizontally from right to left............................passed
+Then more images of nature get seen.........................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
