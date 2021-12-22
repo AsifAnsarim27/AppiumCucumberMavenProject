@@ -1,8 +1,0 @@
-com\StepDefinitions\AnimationFuncSteps.class
-com\StepDefinitions\SwipeOverImagesSteps.class
-com\StepDefinitions\FlipListSteps.class
-com\RunnerFile\NGTestListener.class
-com\StepDefinitions\DisplayTitleSteps.class
-com\StepDefinitions\SMSMessagingSteps.class
-com\RunnerFile\TestRunner.class
-com\StepDefinitions\Hooks.class
